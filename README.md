@@ -1,7 +1,7 @@
 # AWS-SDK
 
 In PowerShell write the following commands to install the following:
-choco:
+Choco:
 $ Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 
 Node.js:
@@ -19,7 +19,7 @@ Default output format [None]: json
 Yarn:
 $ npm install --global yarn:
 
-pnpm:
+PNPM:
 iwr https://get.pnpm.io/install.ps1 -useb | iex
 
 Check the installation of each tool using:
