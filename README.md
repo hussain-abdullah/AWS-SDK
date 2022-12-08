@@ -1,4 +1,4 @@
-# AWS-SDK
+# AWS-SDK-DynamoDB
   
 In PowerShell write the following commands to install the following:  
 Choco:  
